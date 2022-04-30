@@ -30,7 +30,7 @@ body{
 /* 3 boxes customization */
 .box_1{
     width: auto;
-    height: 120px;
+    height: 220px;
     background-color:#35373b;
     border-radius: 15px;
 }
@@ -38,7 +38,7 @@ body{
 
 /* Footer box customization */
 .box_2{
-    height: 150px;
+    height: 250px;
     background-color: #35373b;
     border-radius: 20px;
 }
@@ -46,7 +46,12 @@ body{
 
 /* Vertical box customization */
 .vertical_box{
-    height: 440px;
+    height: 650px;
     background-color: #35373b;
     border-radius: 20px;
+}
+
+.box{
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
